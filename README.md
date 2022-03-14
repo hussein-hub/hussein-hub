@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Hussein Motiwala</h1>
 <h3 align="center">Passionate student who likes working on Web developement and App development</h3>
 
+<p align="center"> 
 - 🔭 I’m currently working on **My Portfolio Website**
 
 - 🌱 I’m currently learning : **MERN stack and Django**
 
 - 📫 Reach me at : **hussein.m@somaiya.edu**
 
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/hussein-motiwala-b760a3192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="husseinMotiwala" height="30" width="40" /></a>
@@ -24,8 +26,10 @@
 
 <br>
 
+<p align="center"> 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-<p align="center">![Metrics](https://metrics.lecoq.io/hussein-hub?template=classic&base.header=0&gists=1&lines=1)</p>
+![Metrics](https://metrics.lecoq.io/hussein-hub?template=classic&base.header=0&gists=1&lines=1)
+</p>
 
 <br>
 
