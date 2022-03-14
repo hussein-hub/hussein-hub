@@ -24,6 +24,12 @@
 
 <br>
 
+<h2 align="center">GitHub Statics</h2>
+<div align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrpandya&show_icons=true&theme=monokai&layout=compact" alt="mrpandya" /></p>
+</div>
+<br>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hussein-hub&show_icons=true&locale=en" alt="hussein-hub" /></p>
 
