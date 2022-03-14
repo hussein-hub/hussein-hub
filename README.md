@@ -2,15 +2,15 @@
 <h3 align="center">Passionate student who likes working on Web developement and App development</h3>
 
 <p align="center"> 
-- 🔭 I’m currently working on **My Portfolio Website**
+  - 🔭 I’m currently working on <b>My Portfolio Website</b>
 </p>
   
 <p align="center"> 
-- 🌱 I’m currently learning : **MERN stack and Django**
+- 🌱 I’m currently learning : <b>MERN stack and Django</b>
 </p>
   
 <p align="center"> 
-- 📫 Reach me at : **hussein.m@somaiya.edu**
+- 📫 Reach me at : <b>hussein.m@somaiya.edu</b>
 </p>
 
 <h3 align="center">Connect with me:</h3>
