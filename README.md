@@ -7,8 +7,8 @@
 
 - 📫 Reach me at : **hussein.m@somaiya.edu**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/hussein-motiwala-b760a3192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="husseinMotiwala" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hussein_motiwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hussein_motiwala" height="30" width="40" /></a>
 </p>
@@ -25,7 +25,7 @@
 <br>
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-![Metrics](https://metrics.lecoq.io/hussein-hub?template=classic&base.header=0&gists=1&lines=1)
+<p align="center">![Metrics](https://metrics.lecoq.io/hussein-hub?template=classic&base.header=0&gists=1&lines=1)</p>
 
 <br>
 
@@ -36,7 +36,7 @@
 <br>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hussein-hub&show_icons=true&locale=en" alt="hussein-hub" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hussein-hub&show_icons=true&locale=en" alt="hussein-hub" /></p>
 
 
 
