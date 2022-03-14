@@ -24,6 +24,11 @@
 
 <br>
 
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+![Metrics](https://metrics.lecoq.io/Raymo111?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+
+<br>
+
 <h2 align="center">GitHub Statics</h2>
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussein-hub&show_icons=true&theme=monokai&layout=compact" alt="hussein-hub" /></p>
