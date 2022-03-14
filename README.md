@@ -47,6 +47,23 @@
 </div>
 <br>
 
+<h2 align="center"> 🔭Actions </h2>
+
+<div align="center">
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=hussein-hub"/>
+</div>
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/hussein-hub/hussein-hub/assets/github-contribution-grid-snake.svg" />
+</div>
+
+<div align="center">
+    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=hussein-hub&theme=github"/>
+</div>
+
+<div align="center">
+    <img height="300px" src="https://metrics.lecoq.io/hussein-hub?template=classic"/>
+</div>
+
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hussein-hub&show_icons=true&locale=en" alt="hussein-hub" /></p>
 
