@@ -20,13 +20,13 @@
 
 <h2 align="center"> Visitor's count 👀</h2>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{mrpandya}/count.svg" alt="mrpandya :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{hussein-hub}/count.svg" alt="hussein-hub :: Visitor's Count" /></p>
 
 <br>
 
 <h2 align="center">GitHub Statics</h2>
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrpandya&show_icons=true&theme=monokai&layout=compact" alt="mrpandya" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussein-hub&show_icons=true&theme=monokai&layout=compact" alt="hussein-hub" /></p>
 </div>
 <br>
 
