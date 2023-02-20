@@ -2,11 +2,7 @@
 <h3 align="center">Passionate about Web developement and Data Science</h3>
 
 <p align="center"> 
-  - 🔭 I’m currently working on <b>My Portfolio Website</b>
-</p>
-  
-<p align="center"> 
-- 🌱 I’m currently learning : <b>MERN stack and Django</b>
+  - 🔭 I’m currently Learning Data Analytics
 </p>
   
 <p align="center"> 
