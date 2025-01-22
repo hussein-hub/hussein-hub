@@ -29,6 +29,9 @@
 	<a href="https://www.w3schools.com/cpp/" target="_blank"> 
 		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/ProgrammingLanguages/cpp.svg" alt="cplusplus" width="40" height="40"/> 
 	</a> 
+	<a href="https://www.oracle.com/in/database/technologies/appdev/plsql.html" target="_blank">
+		<img src="https://www.oracle.com/a/ocom/img/pl-sql.svg" alt="Oracle PLSQL" width="40" height="40" />
+	</a>
 	<a href="https://www.djangoproject.com/" target="_blank"> 
 		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/Framework/django.svg" alt="django" width="40" height="40"/> 
 	</a> 
