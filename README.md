@@ -20,24 +20,24 @@
 
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">  
-	<a href="https://getbootstrap.com" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/FrontendDevelopment/bootstrap.svg" alt="bootstrap" width="40" height="40"/> 
-	</a> 
-	<a href="https://www.cprogramming.com/" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/ProgrammingLanguages/c.svg" alt="c" width="40" height="40"/> 
-	</a> 
+	<a href="https://www.java.com/en/" target="_blank"> 
+		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/java.svg" alt="java" width="40" height="40"/> 
+	</a>
+	<a href="https://www.python.org" target="_blank"> 
+		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/ProgrammingLanguages/python.svg" alt="python" width="40" height="40"/>
+	</a>
 	<a href="https://www.w3schools.com/cpp/" target="_blank"> 
 		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/ProgrammingLanguages/cpp.svg" alt="cplusplus" width="40" height="40"/> 
 	</a> 
 	<a href="https://www.djangoproject.com/" target="_blank"> 
 		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/Framework/django.svg" alt="django" width="40" height="40"/> 
 	</a> 
-	<a href="https://firebase.google.com/" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/BaaS/firebase.svg" alt="firebase" width="40" height="40"/> 
-	</a> 
 	<a href="https://git-scm.com/" target="_blank"> 
 		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/Other/git.svg" alt="git" width="40" height="40"/> 
 	</a>
+	<a href="https://firebase.google.com/" target="_blank"> 
+		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/BaaS/firebase.svg" alt="firebase" width="40" height="40"/> 
+	</a> 
 	<a href="https://www.w3.org/html/" target="_blank"> 
 		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/FrontendDevelopment/html.svg" alt="html5" width="40" height="40"/> 
 	</a> 
@@ -61,12 +61,6 @@
 	</a> 
 	<a href="https://postman.com" target="_blank"> 
 		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/Software/postman.svg" alt="postman" width="40" height="40"/> 
-	</a>
-	<a href="https://www.python.org" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/ProgrammingLanguages/python.svg" alt="python" width="40" height="40"/>
-	</a>
-	<a href="https://www.python.org" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/java.svg" alt="python" width="40" height="40"/> 
 	</a>
 	<a href="https://reactjs.org/" target="_blank">
 		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/FrontendDevelopment/reactjs.svg" alt="react" width="40" height="40"/>
