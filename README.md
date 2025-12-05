@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about Data and Security</h3>
 
 <p align="center"> 
-  - 🔭 I’m currently exploring Data Analytics
+  - 🔭 I’m currently exploring Data Engineering
 </p>
   
 <p align="center"> 
